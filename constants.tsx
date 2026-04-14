@@ -18,8 +18,8 @@ export const CONTACT_INFO = {
   address: 'Rua Pais de Araújo, 29 - Itaim Bibi, São Paulo - SP',
   phone: '(11) 91219-5580',
   whatsappUrl: 'https://wa.me/5511912195580',
-  instagram: 'marilia.endocrino',
-  instagramUrl: 'https://www.instagram.com/marilia.endocrino/',
+  instagram: 'dra.mariliaalmeida',
+  instagramUrl: 'https://www.instagram.com/dra.mariliaalmeida/',
   youtube: 'endocrinologia.marilia',
   youtubeUrl: 'https://www.youtube.com/@endocrinologia.marilia',
   tiktok: 'marilia.endocrino',
@@ -68,7 +68,7 @@ export const SOCIAL_HIGHLIGHTS: SocialHighlight[] = [
     id: '1',
     title: 'Mitos da Menopausa - Vídeo Explicativo',
     thumbnail: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=400&h=600&auto=format&fit=crop',
-    url: 'https://instagram.com/dramariliaalmeida',
+    url: 'https://www.instagram.com/dra.mariliaalmeida/',
     platform: 'instagram'
   },
   {
@@ -82,7 +82,7 @@ export const SOCIAL_HIGHLIGHTS: SocialHighlight[] = [
     id: '3',
     title: 'Rotina de Bem-estar na Clínica',
     thumbnail: 'https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=400&h=600&auto=format&fit=crop',
-    url: 'https://instagram.com/dramariliaalmeida',
+    url: 'https://www.instagram.com/dra.mariliaalmeida/',
     platform: 'instagram'
   }
 ];
