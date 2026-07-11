@@ -41,7 +41,7 @@ const AboutSection: React.FC = () => {
                   Sou <span className="font-bold text-[#833c4e]">Marília Almeida</span>, médica endocrinologista dedicada a integrar evidências científicas de ponta com um atendimento acolhedor e individualizado em São Paulo.
                 </p>
                 <p>
-                  Minha formação na <span className="text-gray-900 font-semibold border-b-2 border-[#e0d5c7]">Universidade Federal de São Paulo</span> e residencia em Clínica Médica e Endocrinologia no <span className="text-gray-900 font-semibold border-b-2 border-[#e0d5c7]">Instituto de Assistência ao Servidor Público Estadual</span> fundamentam meu compromisso com a excelência clínica.
+                  Minha formação na <span className="text-gray-900 font-semibold border-b-2 border-[#e0d5c7]">Universidade Federal de São Carlos</span> e residencia em Clínica Médica e Endocrinologia no <span className="text-gray-900 font-semibold border-b-2 border-[#e0d5c7]">Instituto de Assistência ao Servidor Público Estadual</span> fundamentam meu compromisso com a excelência clínica.
                 </p>
               </div>
             </div>
